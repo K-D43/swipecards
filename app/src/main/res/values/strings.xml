@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">swipe</string>
+    <string name="swipe_to_delete_and_undo">Swipe to Delete and Undo</string>
+</resources>
